@@ -1,0 +1,1 @@
+words = pickle.load(open('words.pkl', 'rb'))
